@@ -1,1 +1,1 @@
-# ait_necro
+AIT script for necro
